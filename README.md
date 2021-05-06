@@ -25,6 +25,9 @@ REFERÊNCIA: O que é engenharia metabólica e como está transformando o mundo 
 
 <div align="justify">Nosso objetivo neste projeto é mergulhar no universo da biologia e da biotecnologia e explorar uma base de dados da área. Utilizando uma base de dados disponibilizada pela Alura, baseada em uma competição do Kaggle, vamos tentar entender como esses dados estão organizados e utilizaremos um algorítmo de aprendizem não supervisionada para encontrar semelhanças entre os dados criando diferentes grupos.</div>
 
+<p>
+</p>
+
 O dicionário de dados está disponível no início do notebook, lá é explicado como os dados estão organizadas, quais são as variáveis e o que elas representam.</div>
 
 <br>
