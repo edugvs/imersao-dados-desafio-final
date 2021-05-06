@@ -11,7 +11,7 @@ Se todas as células do nosso corpo contêm todo o nosso genoma, como existem mi
 
 O termo expressão se refere ao processo de transcrição do DNA para outra molécula biológica chamada RNA e consequente tradução para uma proteína, de acordo com o código genético, os famosos códons - sequências de trincas de bases nitrogenadas, que explicarei logo o que são. Esse código é universal e todos os organismos vivos no planeta Terra o utilizam para formar suas proteínas. Muitas pessoas confundem o termo genoma com código genético.
 
-![GitHub Logo](img/expressao-genica.png)
+<div align="center"![GitHub Logo](img/expressao-genica.png)</div>
 
 REFERÊNCIA: O que é engenharia metabólica e como está transformando o mundo - Profissão Biotec <https://profissaobiotec.com.br/o-que-e-engenharia-metabolica-e-como-esta-transformando-o-mun/> Accessed: 2021-05-06
 
