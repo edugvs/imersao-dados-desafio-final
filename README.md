@@ -22,19 +22,15 @@ A regulação da expressão gênica é algo extremamente importante para qualque
 
 Nosso objetivo neste projeto é mergulhar no universo da biologia e da biotecnologia e explorar uma base de dados da área. Utilizando uma base de dados disponibilizada pela Alura, baseada em uma competição do Kaggle, vamos tentar entender como esses dados estão organizados e utilizaremos um algorítmo de aprendizem não supervisionada para encontrar semelhanças entre os dados criando diferentes grupos.
 
-O dicionário de dados está disponível no início do notebook, lá é explicado como os dados estão organizadas, quais são as variáveis e o que elas representam </div
+O dicionário de dados está disponível no início do notebook, lá é explicado como os dados estão organizadas, quais são as variáveis e o que elas representam </div>
 
 <br>
 
 ![imagem2](img/clustering-example.png)
 
  REFERÊNCIA: Um exemplo simples de agrupamento com 40 genes medidos em duas condições diferentes. <D'haeseleer, P. How does gene expression clustering work?. Nat Biotechnol 23, 1499–1501 (2005). https://doi.org/10.1038/nbt1205-1499>
-
-
-- Evidencie as particularidades do projeto;
-- Explique sobre a estrutura dos dados;
-- Exiba os links utilizados para a conclusão do projeto
-
+ 
+ <br>
 
 Links úteis:
 
