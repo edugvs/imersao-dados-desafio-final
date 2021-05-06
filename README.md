@@ -1,7 +1,7 @@
 
 # CLUSTERIZAÇÃO DE EXPRESSÃO GÊNICA - PROJETO FINAL 3º IMERSÃO DADOS DA ALURA
 
-**Introdução**
+*Introdução*
 
 <div align="justify"> Toda informação biológica dos seres vivos está armazenada em uma biomolécula chamada Ácido desoxirribonucleico ou simplesmente DNA. O conjunto de todo material genético presente dentro de cada célula de qualquer forma de vida, sejam bactérias, arqueas ou eucariotos, é denominado genoma. Nos organismos eucariotos, aqueles que possuem núcleo celular - estrutura que contém o genoma - e multicelulares, como nós humanos, todas as células possuem o genoma completo, com todas as características e "receitas" que ditam o que aquele ser vivo é, seu comportamento, suas estruturas histológicas e anatômicas e como se desenvolve.
 
