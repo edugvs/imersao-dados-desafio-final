@@ -6,6 +6,7 @@
 
 - Insira uma imagem; 
 ![GitHub Logo](img/clustering-example.png)
+ Um exemplo simples de agrupamento com 40 genes medidos em duas condições diferentes. <D'haeseleer, P. How does gene expression clustering work?. Nat Biotechnol 23, 1499–1501 (2005). https://doi.org/10.1038/nbt1205-1499>
 
 - Coloque o nome do projeto;
 - Descreva o projeto;
