@@ -28,7 +28,7 @@ REFERÊNCIA: O que é engenharia metabólica e como está transformando o mundo 
 <p>
 </p>
 
-O dicionário de dados está disponível no início do notebook, lá é explicado como os dados estão organizadas, quais são as variáveis e o que elas representam.</div>
+O dicionário de dados está disponível no início do notebook, lá é explicado como os dados estão organizados, quais são as variáveis e o que elas representam.</div>
 
 <br>
 
