@@ -1,10 +1,12 @@
 
 # Desafio Final Imersão Dados
 
-**TÍTULO DO PROJETO**
+**CLUSTERIZAÇÃO DE EXPRESSÃO GÊNICA**
 
 
-- Insira uma imagem;
+- Insira uma imagem; 
+![GitHub Logo](img/clustering-example.png)
+
 - Coloque o nome do projeto;
 - Descreva o projeto;
 - Apresente o objetivo do projeto;
