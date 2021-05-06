@@ -28,7 +28,9 @@ O dicionário de dados está disponível no início do notebook, lá é explicad
 
 <br>
 
-![imagem2](img/clustering-example.png)
+<p align="center">
+  <img src="img/clustering-example.png" />
+</p>
 
  REFERÊNCIA: Um exemplo simples de agrupamento com 40 genes medidos em duas condições diferentes. <D'haeseleer, P. How does gene expression clustering work?. Nat Biotechnol 23, 1499–1501 (2005). https://doi.org/10.1038/nbt1205-1499>
  
