@@ -4,6 +4,9 @@
 **Introdução**
 
 <div align="justify"> Toda informação biológica dos seres vivos está armazenada em uma biomolécula chamada ácido desoxirribonucleico ou simplesmente DNA. O conjunto de todo material genético dentro de cada célula, de qualquer forma de vida, sejam bactérias, arqueas ou eucariotos, é denominado genoma. Nos organismos eucariotos, aqueles que possuem núcleo celular - estrutura que contém o genoma - e multicelulares, como nós humanos, todas as células possuem o genoma completo, com todas as características e "receitas" que ditam o que aquele ser vivo é, seu comportamento, suas estruturas histológicas e anatômicas e como se desenvolve.
+  
+<p>
+</p>
 
 Se todas as células do nosso corpo contêm todo o nosso genoma, como existem milhares de células altamente especializadas, com diferentes funções e estruturas totalmente divergentes espalhadas por aí? 
 
