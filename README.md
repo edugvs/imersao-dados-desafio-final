@@ -1,7 +1,7 @@
 
 # CLUSTERIZAÇÃO DE EXPRESSÃO GÊNICA - PROJETO FINAL 3º IMERSÃO DADOS DA ALURA
 
-*Introdução*
+**Introdução**
 
 <div align="justify"> Toda informação biológica dos seres vivos está armazenada em uma biomolécula chamada Ácido desoxirribonucleico ou simplesmente DNA. O conjunto de todo material genético presente dentro de cada célula de qualquer forma de vida, sejam bactérias, arqueas ou eucariotos, é denominado genoma. Nos organismos eucariotos, aqueles que possuem núcleo celular - estrutura que contém o genoma - e multicelulares, como nós humanos, todas as células possuem o genoma completo, com todas as características e "receitas" que ditam o que aquele ser vivo é, seu comportamento, suas estruturas histológicas e anatômicas e como se desenvolve.
 
@@ -19,26 +19,28 @@ O DNA que está sendo transcrito, ou expresso, é chamado de gene - ou em outras
 
 A regulação da expressão gênica é algo extremamente importante para qualquer organismo vivo, pois modula os processos biológicos de acordo com eventos intracelulares e com o ambiente. Existem diversos mecanismos pelos quais os seres vivos controlam a expressão gênica, estudados a fundo no campo da epigenética (acima do gene) e que não serão discutidos aqui de forma aprofundada aqui. </div
 
+<div align="justify"> Nosso objetivo neste projeto é mergulhar no universo da biologia e da biotecnologia e explorar uma base de dados da área. Utilizando uma base de dados disponibilizada pela Alura, baseada em uma competição do Kaggle, vamos tentar entender como esses dados estão organizados e utilizaremos um algorítmo de aprendizem não supervisionada para encontrar semelhanças entre os dados criando diferentes grupos.
 
-- Insira uma imagem; 
+O dicionário de dados está disponível no início do notebook, lá é explicado como os dados estão organizadas, quais são as variáveis e o que elas representam </div
+
 
 ![GitHub Logo](img/clustering-example.png)
 
  Um exemplo simples de agrupamento com 40 genes medidos em duas condições diferentes. <D'haeseleer, P. How does gene expression clustering work?. Nat Biotechnol 23, 1499–1501 (2005). https://doi.org/10.1038/nbt1205-1499>
 
-- Coloque o nome do projeto;
-- Descreva o projeto;
-- Apresente o objetivo do projeto;
+- Coloque o nome do projeto; (OK)
+- Descreva o projeto; (OK)
+- Apresente o objetivo do projeto; (OK)
 - Evidencie as particularidades do projeto;
 - Explique sobre a estrutura dos dados;
 - Exiba os links utilizados para a conclusão do projeto
 
-Links úteis:
 
-Materiais sobre **biologia** para você embasar seu projeto:
+Links úteis:
 
 - [Drug discovery: passado, presente e futuro](https://docs.google.com/document/d/10EhrQBChlyYIcff3to7PrCQi5HcNk2r-zd2ZCKPtcz8/edit?usp=sharing)
 - [Expressão gênica: o caminho da informação biológica](https://docs.google.com/document/d/1TR-Q1cb2k_-S_MZC-60PMN2CbVGZbLMKT0Lr_didPY0/edit?usp=sharing)
+- [How does gene expression clustering work? - NATURE](https://www.nature.com/articles/nbt1205-1499#:~:text=Clustering%20is%20often%20one%20of%20the%20first%20steps%20in%20gene%20expression%20analysis.&text=We%20can%20distill%20the%20data,is%20where%20clustering%20comes%20in.)
 
 
 
