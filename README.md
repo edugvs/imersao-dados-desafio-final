@@ -26,7 +26,7 @@ REFERÊNCIA: O que é engenharia metabólica e como está transformando o mundo 
 <p>
 </p>
 
-<div align="justify">Nosso objetivo neste projeto é mergulhar no universo da biologia e da biotecnologia e explorar uma base de dados da área. Utilizando uma base de dados disponibilizada pela Alura, baseada em uma competição do Kaggle. Vamos tentar compreender como esses dados estão organizados e utilizaremos um algorítmo de aprendizagem não supervisionada para encontrar semelhanças entre os dados criando diferentes grupos por clusterização. A clusterização geralmente é um dos primeiros passos na análise de expressão gênica e é um método frequentemente usado por inúmeros pesquisadores da área. </div>
+<div align="justify">Nosso objetivo neste projeto é mergulhar no universo da biologia e da biotecnologia e explorar uma base de dados da área. Utilizando uma base de dados disponibilizada pela Alura, baseada em uma competição do Kaggle. Vamos tentar compreender como esses dados estão organizados e utilizaremos um algorítmo de aprendizagem não supervisionada de clusterização. O principal objetivo da técnica da clusterização é encontrar grupos semelhantes ou homogêneos em dados, que são chamados clusters (ou grupos). Esse método é muito utilizado na simplificação de grandes conjuntos de dados agrupando características com valores semelhantes em um número menor de categorias homogêneas. Neste caso, usaremos a distância euclidiana para agrupar os dados, quanto menor for a distância entre um par de elementos, maior é a similaridade entre eles. A clusterização geralmente é um dos primeiros passos na análise de expressão gênica e é um método frequentemente usado por inúmeros pesquisadores da área. </div>
 
 <p>
 </p>
