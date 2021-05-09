@@ -59,7 +59,7 @@ O dicionário de dados está disponível no início do notebook, lá é explicad
  ## Estrutura do repositório
  
 - `Dados`: A pasta contém os arquivos em formato **CSV** utilizados.
-- `Notebook`: Arquivo do jupyter notebook com o script completo do projeto.
+- `Notebook`: Arquivo do jupyter notebook com o script completo do projeto. <a href="https://edugvs.github.io/imersao-dados-desafio-final/">Clique aqui</a> para aceesar o script.
 - `img`: Contém os arquivos de imagens utilizadas no projeto e na apresentação do projeto.
 
 <p>
