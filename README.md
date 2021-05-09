@@ -6,7 +6,6 @@
 </p>
 
 ## **Introdução**
-_________________________________________________________________________________________________________________________________________________________________________________
 
 <div align="justify"> Toda informação biológica dos seres vivos está armazenada em uma biomolécula chamada ácido desoxirribonucleico ou simplesmente DNA. O conjunto de todo material genético dentro de cada célula, de qualquer forma de vida, sejam bactérias, arqueas ou eucariotos, é denominado genoma. Nos organismos eucariotos, aqueles que possuem núcleo celular - estrutura que contém o genoma - e multicelulares, como nós humanos, todas as células possuem o genoma completo, com todas as características e "receitas" que ditam o que aquele ser vivo é, seu comportamento, suas estruturas histológicas e anatômicas e como se desenvolve.
   
@@ -37,7 +36,6 @@ Quase tudo nos sistemas biológicos funcionam com proteínas. Apenas como curios
 </p>
 
 ## **Objetivos e Métodos**
-_________________________________________________________________________________________________________________________________________________________________________________
 
 <div align="justify">Nosso objetivo neste projeto é mergulhar no universo da biologia e da biotecnologia e explorar uma base de dados da área. Utilizando uma dataset disponibilizado pela Alura, baseado em um projeto das instituições Broad Institute of MIT, Harvard University, do Laboratory for Innovation Science de Harvard (LISH) e do NIH Common Funds Library of Integrated Network-Based Cellular Signatures (LINCS) que disponibilizaram os dados em uma competição do <a href="https://www.kaggle.com/c/lish-moa">Kaggle</a>. Vamos tentar compreender como esses dados estão organizados e utilizaremos um algorítmo de aprendizagem não supervisionada de clusterização. O principal objetivo da técnica da clusterização é encontrar grupos semelhantes ou homogêneos em dados, que são chamados clusters (ou grupos). Esse método é muito utilizado na simplificação de grandes conjuntos de dados agrupando características com valores semelhantes em um número menor de categorias homogêneas. Neste caso, usaremos a distância euclidiana para agrupar os dados, quanto menor for a distância entre um par de elementos, maior é a similaridade entre eles. A clusterização geralmente é um dos primeiros passos na análise de expressão gênica e é um método frequentemente usado por inúmeros pesquisadores da área. </div>
 
@@ -59,7 +57,7 @@ O dicionário de dados está disponível no início do notebook, lá é explicad
  
  
  ## Estrutura do repositório
- ________________________________________________________________________________________________________________________________________________________________________________
+ 
 - `Dados`: A pasta contém os arquivos em formato **CSV** utilizados.
 - `Notebook`: Arquivo do jupyter notebook com o script completo do projeto.
 - `img`: Contém os arquivos de imagens utilizadas no projeto e na apresentação do projeto.
