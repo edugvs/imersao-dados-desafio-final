@@ -65,7 +65,8 @@ O dicionário de dados está disponível no início do notebook, lá é explicad
 <p>
   </p>
 
-Links úteis:
+
+## Links úteis:
 
 - [Drug discovery: passado, presente e futuro](https://docs.google.com/document/d/10EhrQBChlyYIcff3to7PrCQi5HcNk2r-zd2ZCKPtcz8/edit?usp=sharing)
 - [Expressão gênica: o caminho da informação biológica](https://docs.google.com/document/d/1TR-Q1cb2k_-S_MZC-60PMN2CbVGZbLMKT0Lr_didPY0/edit?usp=sharing)
