@@ -55,6 +55,17 @@ O dicionário de dados está disponível no início do notebook, lá é explicad
  REFERÊNCIA: Um exemplo simples de agrupamento com 40 genes medidos em duas condições diferentes. D'haeseleer, P. How does gene expression clustering work?. Nat Biotechnol 23, 1499–1501 (2005). <https://doi.org/10.1038/nbt1205-1499>
  
  <br>
+ 
+ 
+ 
+ ## Estrutura do repositório
+ ________________________________________________________________________________________________________________________________________________________________________________
+- `Dados`: A pasta contém os arquivos em formato **CSV** utilizados.
+- `Notebook`: Arquivo do jupyter notebook com o script completo do projeto.
+- `img`: Contém os arquivos de imagens utilizadas no projeto e na apresentação do projeto.
+
+<p>
+  </p>
 
 Links úteis:
 
